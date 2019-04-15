@@ -17,6 +17,7 @@ The recommended command to run objectfs is:
   objectfs -p /path/to/networkdrive /path/to/mountpoint
 
 To umount, use
+
   fusermount -u /path/to/mountpoint
 
 
